@@ -1,0 +1,2 @@
+order_id,customer_id,order_date,status,product_id,quantity,price
+123e4567-e89b-12d3-a456-426614174000,987fcdeb-12ab-34cd-e567-8f9a0b1c2d3e,2025-04-10,CREATED,456fcdeb-12ab-34cd-e567-8f9a0b1c2d3e,2,99.99
